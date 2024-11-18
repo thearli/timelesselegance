@@ -1,0 +1,25 @@
+/* Dora AI - buying clothes it should be a bl... - Desktop */
+
+position: relative;
+width: 1440px;
+height: 5947px;
+
+background: #FFFFFF;
+border-radius: 0px;
+
+
+/* Dora AI - buying clothes it should be a bl... - Mobile */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+isolation: isolate;
+
+position: relative;
+width: 390px;
+height: 5622.33px;
+
+background: #FFFFFF;
+border-radius: 0px;
